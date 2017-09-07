@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "GriesmayerNoFlash",
 	"description": "Adds a \"Download\" button to videos which need Flash.",
-	"version": "0.1",
+	"version": "1.0",
 	"author": "z3ntu",
 	"homepage_url": "https://z3ntu.xyz",
 	"content_scripts": [ {
