@@ -1,0 +1,6 @@
+# Jetbrains IDE
+.idea/
+
+# Binary and key
+*.pem
+*.crx
